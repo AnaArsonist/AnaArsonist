@@ -1,5 +1,5 @@
 # 👋 wagwan!
-## ✨ I'm Ana, your colorful-haired friendly human! 🌈
+### ✨ I'm Ana, your colorful-haired friendly human! 🌈
 - 👀 I’m interested in Meowies!
 - 🌱 I’m currently learning Web Dev!
 - 👩🏼‍🎓 Studying BASc @ LIS
